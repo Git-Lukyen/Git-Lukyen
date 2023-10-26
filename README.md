@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
+<div id="user-content-toc" style="color: white;">
   <ul align="center">
     <summary><h1 style="display: inline-block; color: white;">Dracea Lucian</h1></summary>
   </ul>
@@ -15,7 +15,7 @@
 </div>
 
 <!--h2 without bottom border-->
-<div id="user-content-toc">
+<div id="user-content-toc" style="color: white;">
   <ul align="center">
     <summary><h2 style="display: inline-block; color: white;">About me</h2></summary>
   </ul>
@@ -41,7 +41,7 @@ You can check out my [current CV](https://github.com/Git-Lukyen/Git-Lukyen/blob/
 
 </p>        
 <!--- stats & Trophy (start) -->
-<div id="user-content-toc">
+<div id="user-content-toc" style="color: white;">
   <ul align="center">
     <summary><h2 style="display: inline-block; color: white;">Stats</h2></summary>
   </ul>
@@ -82,7 +82,7 @@ You can check out my [current CV](https://github.com/Git-Lukyen/Git-Lukyen/blob/
 <!--- trophy (end) -->
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
+<div id="user-content-toc" style="color: white;">
   <ul align="center">
     <summary><h2 style="display: inline-block; color: white;">Languages & Technologies👨🏻‍💻</h2></summary>
   </ul>
