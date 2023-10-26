@@ -53,7 +53,7 @@ You can check out my [current CV](https://github.com/Git-Lukyen/Git-Lukyen/blob/
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  width="100%" height="250em" align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=Git-Lukyen&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img  width="100%" height="100%" align="center"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=Git-Lukyen&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <br></br>
   <img  width="100%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-Lukyen&langs_count=8&hide_progress=true&theme=radical" /> 
 </td>
