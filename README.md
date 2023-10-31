@@ -57,13 +57,17 @@ You can check out my [current CV](https://github.com/Git-Lukyen/Git-Lukyen/blob/
   </a>
   <br></br>
   <a>
-  <img  width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-Lukyen&langs_count=8&hide_progress=true&theme=radical" /> 
+  <img  width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Git-Lukyen&langs_count=8&hide_progress=true&theme=radical" /> 
   </a>
 </td>
 
 <td width="50%" align="center">
 <a href="https://codeforces.com/profile/Lukyen">
-  <img width="100%" height="100%" align="center"  src="https://codeforces-readme-stats.vercel.app/api/card?username=lukyen&theme=radical"/>
+  <img width="100%" align="center"  src="https://codeforces-readme-stats.vercel.app/api/card?username=lukyen&theme=radical"/>
+</a>
+
+<a href="https://leetcode.com/Lukyen/">
+  <img width="100%" align="center" src="https://leetcode.card.workers.dev/Lukyen?theme=radical&font=baloo&extension=null">
 </a>
   
   
