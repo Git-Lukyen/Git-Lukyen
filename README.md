@@ -63,12 +63,13 @@ You can check out my [current CV](https://github.com/Git-Lukyen/Git-Lukyen/blob/
 
 <td width="50%" align="center">
 <a href="https://codeforces.com/profile/Lukyen">
-  <img width="100%" height="90%" align="center"  src="https://codeforces-readme-stats.vercel.app/api/card?username=lukyen&theme=radical"/>
+  <img width="100%" align="center"  src="https://codeforces-readme-stats.vercel.app/api/card?username=lukyen&theme=radical"/>
 </a>
+<br>
 <br>
 
 <a href="https://leetcode.com/Lukyen/">
-  <img width="100%" align="center" src="https://leetcode.card.workers.dev/Lukyen?theme=auto&font=baloo&extension=null">
+  <img width="100%" align="center" src="https://leetcode.card.workers.dev/Lukyen?theme=nord&font=baloo&extension=null">
 </a>
   
   
