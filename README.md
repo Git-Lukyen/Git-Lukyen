@@ -65,9 +65,10 @@ You can check out my [current CV](https://github.com/Git-Lukyen/Git-Lukyen/blob/
 <a href="https://codeforces.com/profile/Lukyen">
   <img width="100%" align="center"  src="https://codeforces-readme-stats.vercel.app/api/card?username=lukyen&theme=radical"/>
 </a>
+<br>
 
 <a href="https://leetcode.com/Lukyen/">
-  <img width="100%" align="center" src="https://leetcode.card.workers.dev/Lukyen?theme=radical&font=baloo&extension=null">
+  <img width="100%" align="center" src="https://leetcode.card.workers.dev/Lukyen?theme=auto&font=baloo&extension=null">
 </a>
   
   
