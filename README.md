@@ -90,7 +90,7 @@ You can check out my [current CV](https://github.com/Git-Lukyen/Git-Lukyen/blob/
 <!--h1 without bottom border-->
 <div id="user-content-toc" style="color: white;">
   <ul align="center">
-    <summary><h2 style="display: inline-block; color: white;">Languages & Technologies👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block; color: white;">Languages & Technologies</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
