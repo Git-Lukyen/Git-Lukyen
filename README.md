@@ -33,7 +33,7 @@ My only official work experience as of now is an Internship as a Java Software D
 <br>
 <br>
 
-You can check out my [current CV](https://github.com/Git-Lukyen/Git-Lukyen/blob/main/Dracea%20Mihai%20Lucian%20CV.pdf) as well as my [Linkedin Profile](https://www.linkedin.com/in/lucian-dracea-b50498285/).
+You can check out my [current CV](https://github.com/Git-Lukyen/Git-Lukyen/blob/main/Dracea-Mihai-Lucian_CV.pdf) as well as my [Linkedin Profile](https://www.linkedin.com/in/lucian-dracea-b50498285/).
 <br>
 <br>
 
