@@ -26,10 +26,10 @@
 I am a Software Engineer Intern at Veridion and a first year student at University of Bucharest, faculty of Mathematics & Computer Science.
 <br>
 <br>
-Naturally, I am passionate about programming and I like to improve my coding skills everyday. To achieve that I actively participate in programming contests and work on personal projects, as well as study programming both by myself and at university.
+Naturally, I am passionate about programming and I like to improve my coding skills everyday. To achieve that I work in a professional environment, actively participate in programming contests and work on personal projects, as well as study programming both by myself and at university.
 <br>
 <br>
-My only other official work experience besides where I work now as is an Internship as a Java Software Developer at Syncrosoft. 
+My only other official work experience, besides where I work now, is an Internship as a Java Software Developer at Syncrosoft. 
 <br>
 <br>
 
