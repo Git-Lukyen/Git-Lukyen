@@ -17,7 +17,7 @@
 
 <!--Intro start-->
 <br>
-I am a Data Engineer Intern at Veridion and a first year student at University of Bucharest, faculty of Mathematics & Computer Science.
+I am a Software & Data Engineer Intern at Veridion and a first year student at University of Bucharest, faculty of Mathematics & Computer Science.
 <br>
 <br>
 Naturally, I am passionate about programming and I like to improve my coding skills everyday. To achieve that I work in a professional environment, actively participate in programming contests and work on personal projects, as well as study programming both by myself and at university.
