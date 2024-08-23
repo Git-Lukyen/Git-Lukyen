@@ -23,11 +23,8 @@ I am a Data Engineer at Veridion and a first year student at University of Bucha
 Naturally, I am passionate about programming and I like to improve my coding skills everyday. To achieve that I work in a professional environment, actively participate in programming contests and work on personal projects, as well as study programming both by myself and at university.
 <br>
 <br>
-My only other official work experience, besides where I work now, is an Internship as a Java Software Developer at Syncrosoft. 
-<br>
-<br>
 
-You can check out my [current CV](https://github.com/Git-Lukyen/Git-Lukyen/blob/main/Dracea-Mihai-Lucian_CV.pdf) as well as my [Linkedin Profile](https://www.linkedin.com/in/lucian-dracea-b50498285/).
+You can check out my [Linkedin Profile](https://www.linkedin.com/in/lucian-dracea-b50498285/).
 <br>
 <br>
 
@@ -89,7 +86,7 @@ You can check out my [current CV](https://github.com/Git-Lukyen/Git-Lukyen/blob/
 </div>
 <!--tech stack icons-->
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,js,html,css&perline=14">
+    <img src="https://skillicons.dev/icons?i=scala,c,cpp,cs,py,java,js,html,css&perline=14">
     <br>
     <img src="https://skillicons.dev/icons?i=supabase,firebase,mysql,postgres,gradle,dotnet,fastapi,jquery,bootstrap,tailwind&perline=14">
     <br>
