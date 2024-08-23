@@ -88,9 +88,9 @@ You can check out my [Linkedin Profile](https://www.linkedin.com/in/lucian-drace
 <p align="center">
     <img src="https://skillicons.dev/icons?i=scala,c,cpp,cs,py,java,js,html,css&perline=14">
     <br>
-    <img src="https://skillicons.dev/icons?i=supabase,firebase,mysql,postgres,gradle,dotnet,fastapi,jquery,bootstrap,tailwind&perline=14">
+    <img src="https://skillicons.dev/icons?i=cassandra,supabase,firebase,mysql,postgres,gradle,dotnet,fastapi,jquery,bootstrap,tailwind&perline=14">
     <br>
-    <img src="https://skillicons.dev/icons?i=vscode,idea,github,linkedin,discord,instagram&perline=14">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,github&perline=14">
 </p>
 
 <!--profile visit count-->
